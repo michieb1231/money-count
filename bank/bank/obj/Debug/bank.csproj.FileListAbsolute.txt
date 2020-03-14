@@ -1,0 +1,10 @@
+C:\Users\MAIN\source\repos\bank\bank\bin\Debug\bank.exe.config
+C:\Users\MAIN\source\repos\bank\bank\bin\Debug\bank.exe
+C:\Users\MAIN\source\repos\bank\bank\bin\Debug\bank.pdb
+C:\Users\MAIN\source\repos\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+C:\Users\MAIN\source\repos\bank\bank\obj\Debug\bank.exe
+C:\Users\MAIN\source\repos\bank\bank\obj\Debug\bank.pdb
+C:\Users\MAIN\source\repos\bank\bank\bin\Debug\bank.exe.manifest
+C:\Users\MAIN\source\repos\bank\bank\bin\Debug\bank.application
+C:\Users\MAIN\source\repos\bank\bank\obj\Debug\bank.exe.manifest
+C:\Users\MAIN\source\repos\bank\bank\obj\Debug\bank.application

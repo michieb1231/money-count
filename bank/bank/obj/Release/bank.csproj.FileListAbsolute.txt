@@ -1,0 +1,5 @@
+C:\Users\MAIN\source\repos\bank\bank\bin\Release\bank.exe.config
+C:\Users\MAIN\source\repos\bank\bank\bin\Release\bank.exe
+C:\Users\MAIN\source\repos\bank\bank\bin\Release\bank.pdb
+C:\Users\MAIN\source\repos\bank\bank\obj\Release\bank.exe
+C:\Users\MAIN\source\repos\bank\bank\obj\Release\bank.pdb
